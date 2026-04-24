@@ -1,6 +1,6 @@
 # All Restaurants in Tulsa (Metro), Oklahoma, US
 
-> Free BeamStation sample export with 252 rows and masked direct-contact fields.
+> Free BeamStation sample export with 176 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `790903` |
 | Location | Tulsa, OK |
 | Category | Restaurants |
-| Full dataset size | 2,524 records |
-| Free sample size | 252 records (9.98%) |
-| Last export | 2026-04-16T20:29:51.838947+00:00 |
+| Full dataset size | 1,762 records |
+| Free sample size | 176 records (9.99%) |
+| Last export | 2026-04-23T15:38:13.020032+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-tulsa-metro-oklahoma-us-sample-790903/releases/download/sample-latest/beamstation_790903_restaurants-us-tulsaok_SAMPLE_DIST.csv) |
 
 ## What is in this sample
